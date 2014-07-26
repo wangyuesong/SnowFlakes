@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Users/WYS/Desktop/finalProjectFolder/SnowFlakes_Web/test/com/example/tests/createProject.java</file>
+            <file>file:/Users/WYS/Desktop/finalProjectFolder/SnowFlakes_Web/web/WEB-INF/jsp/projectManagement.jsp</file>
+            <file>file:/Users/WYS/Desktop/finalProjectFolder/SnowFlakes_Web/test/com/example/tests/register.java</file>
+            <file>file:/Users/WYS/Desktop/finalProjectFolder/SnowFlakes_Web/test/com/example/tests/personalCenter.java</file>
+            <file>file:/Users/WYS/Desktop/finalProjectFolder/SnowFlakes_Web/web/WEB-INF/jsp/about.jsp</file>
+            <file>file:/Users/WYS/Desktop/finalProjectFolder/SnowFlakes_Web/test/com/example/tests/calendarAssignTask.java</file>
+            <file>file:/Users/WYS/Desktop/finalProjectFolder/SnowFlakes_Web/web/WEB-INF/jsp/viewHistory.jsp</file>
+            <file>file:/Users/WYS/Desktop/finalProjectFolder/SnowFlakes_Web/test/com/example/tests/login.java</file>
+            <file>file:/Users/WYS/Desktop/finalProjectFolder/SnowFlakes_Web/test/com/example/tests/createDocument.java</file>
+            <file>file:/Users/WYS/Desktop/finalProjectFolder/SnowFlakes_Web/src/java/com/tongji/collaborationteam/pagecontrollers/TeamController.java</file>
+            <file>file:/Users/WYS/Desktop/finalProjectFolder/SnowFlakes_Web/test/com/tongji/collaborationteam/pagecontrollers/ProjectMainViewControllerTest.java</file>
+            <file>file:/Users/WYS/Desktop/finalProjectFolder/SnowFlakes_Web/test/com/example/tests/editTaskAndDeleteTask.java</file>
+            <file>file:/Users/WYS/Desktop/finalProjectFolder/SnowFlakes_Web/test/com/example/tests/createTask.java</file>
+            <file>file:/Users/WYS/Desktop/finalProjectFolder/SnowFlakes_Web/src/java/com/tongji/collaborationteam/pagecontrollers/PersonalCenterController.java</file>
+            <file>file:/Users/WYS/Desktop/finalProjectFolder/SnowFlakes_Web/test/com/example/tests/editAndDeleteDocument.java</file>
+            <file>file:/Users/WYS/Desktop/finalProjectFolder/SnowFlakes_Web/web/WEB-INF/jsp/index.jsp</file>
+            <file>file:/Users/WYS/Desktop/finalProjectFolder/SnowFlakes_Web/test/com/example/tests/deleteProject.java</file>
+            <file>file:/Users/WYS/Desktop/finalProjectFolder/SnowFlakes_Web/web/META-INF/context.xml</file>
+            <file>file:/Users/WYS/Desktop/finalProjectFolder/SnowFlakes_Web/src/java/com/tongji/collaborationteam/pagecontrollers/IndexController.java</file>
+            <file>file:/Users/WYS/Desktop/finalProjectFolder/SnowFlakes_Web/test/com/example/tests/sendInvitation.java</file>
+            <file>file:/Users/WYS/Desktop/finalProjectFolder/SnowFlakes_Web/test/com/example/tests/projectReport.java</file>
+            <file>file:/Users/WYS/Desktop/finalProjectFolder/SnowFlakes_Web/src/java/com/tongji/collaborationteam/services/MyInfoService.java</file>
+            <file>file:/Users/WYS/Desktop/finalProjectFolder/SnowFlakes_Web/test/com/example/tests/deleteMember.java</file>
+            <file>file:/Users/WYS/Desktop/finalProjectFolder/SnowFlakes_Web/web/WEB-INF/jsp/team.jsp</file>
+        </group>
+    </open-files>
+</project-private>

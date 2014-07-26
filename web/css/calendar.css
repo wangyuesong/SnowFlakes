@@ -1,0 +1,23 @@
+.event
+{
+    height: 40px;
+    font-size:  medium;
+    font-weight:  300;
+    color:   black;
+    border-style:   outset;
+    text-align: center;
+    padding-top:10px;
+    text-shadow: -1px -1px 0 #fff,1px 1px 0 #333,1px 1px 0 #444;
+
+}
+body {
+    margin-top: 40px;
+    text-align: center;
+    font-size: 14px;
+    font-family: "Lucida Grande",Helvetica,Arial,Verdana,sans-serif;
+}
+
+#calendar {
+    width: 900px;
+    margin: 0 auto;
+}

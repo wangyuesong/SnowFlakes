@@ -1,0 +1,16 @@
+.help-block{
+    color: #d2322d
+}
+.panel label,.panel a,.panel p{
+    margin-left:5px;
+
+}
+#register-tab > li.active > a,
+#register-tab > li.active > a:hover,
+#register-tab > li.active > a:focus {
+    color: #ffffff;
+    cursor: default;
+    background-color: #666699;
+    border:transparent;
+    border-bottom-color: transparent;
+}

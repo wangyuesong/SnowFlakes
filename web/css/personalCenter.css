@@ -1,0 +1,66 @@
+#Due-date, #Assign-date, #projects:hover{
+    cursor:  pointer
+}
+#myTab{
+    background: #BBBBBB;-moz-border-radius: 4px;-webkit-border-radius: 4px;border-radius:4px;
+}
+
+#infoTab > li > a {
+    border-color:transparent;
+    color: #000;
+
+}
+#infoTab > li > a:hover {
+    border-color: transparent;
+    color: #333333
+}
+
+#infoTab > li.active > a,
+#infoTab > li.active > a:hover,
+#infoTab > li.active > a:focus {
+    color: #ffffff;
+    cursor: default;
+    background-color: #333366;
+    border:transparent;
+    border-bottom-color: transparent;
+}
+
+#taskTab > li > a {
+    border-color:transparent;
+    color: #000;
+
+}
+#taskTab > li > a:hover {
+    border-color: transparent;
+    color: #333333
+}
+
+#taskTab > li.active > a,
+#taskTab > li.active > a:hover,
+#taskTab > li.active > a:focus {
+    color: #ffffff;
+    cursor: default;
+    background-color: #333366;
+    border:transparent;
+    border-bottom-color: transparent;
+}
+
+.table3,.table2,.table2-2{
+    background: #666699;-moz-border-radius: 4px;-webkit-border-radius: 4px;border-radius:4px;
+
+}
+.table3 a{
+    color:  #000;
+    font-weight: lighter;
+}
+.table2 a,.table2-2 a{
+    color: #000;
+}
+
+.help-block{
+    color: #d2322d
+}
+.panel label,.panel a,.panel p{
+    margin-left:5px;
+
+}

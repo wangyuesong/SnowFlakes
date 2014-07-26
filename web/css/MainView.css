@@ -1,0 +1,49 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 2014-4-25, 23:21:14
+    Author     : WYS
+*/
+
+.clear-surronding{
+    margin:10px;
+}
+
+
+.clear-between-rows
+{
+    height: 10px;
+}
+
+.minicard.doc {
+   border-style:  dashed;
+   border-width: 1px;
+border-color: black;
+background: #fffef4 url("/pics/minicard-bg.png") no-repeat ;
+overflow: hidden;
+margin: 20px
+}
+
+.file {
+  
+overflow: hidden;
+margin: 15px;
+text-align: center;
+
+}
+
+.wrap{
+    background: url('/img/bg.jpg');
+   
+    padding: 40px;
+    padding-top: 20px;
+    box-shadow: 0 0 8px 0 rgba(0,0,0,0.2),   inset 0 0 1px 0 rgba(255,255,255,1);
+    margin:  20px auto;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+    
+}

@@ -1,0 +1,28 @@
+.close{
+    visibility: hidden;
+}
+#projectTable > li > a {
+    border-color:transparent;
+    color: #333333;
+
+}
+#projectTable > li > a:hover {
+    border-color: transparent;
+    color: #333333
+}
+
+#projectTable > li.active > a,
+#projectTable > li.active > a:hover,
+#projectTable > li.active > a:focus {
+    color: #ffffff;
+    cursor: default;
+    background-color: #666699;
+    border:transparent;
+    border-bottom-color: transparent;
+}
+.help-block{
+    color: #d2322d
+}
+.datepicker:hover{
+    cursor: pointer;
+}

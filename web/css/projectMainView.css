@@ -1,0 +1,39 @@
+#topLoader {
+    width: 256px;
+    height: 256px;
+    margin-bottom: 32px;
+}
+#animateButton {
+    width: 256px;
+}
+#container {
+    width: 940px;
+    padding: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+/*<!--ScrollCSS-->*/
+
+a,img{border:0;}
+a,a:visited{color:#5e5e5e; text-decoration:none;}
+a:hover{color:#b52725;text-decoration:underline;}
+.clear{display:block;overflow:hidden;clear:both;height:0;line-height:0;font-size:0;}
+body{font:12px/180% Arial, Helvetica, sans-serif;}
+.demo{width:600px;margin:20px auto;border:solid 1px #ddd;padding:0 10px;}
+.demo h2{font-size:14px;color:#333;height:30px;line-height:30px;padding:15px 0;color:#3366cc;}
+/* ranklist */
+.ranklist{height:200px;overflow:hidden;}
+.ranklist li{height:16px;line-height:16px;overflow:hidden;position:relative;padding:0 70px 0 30px;margin:0 0 10px 0;}
+.ranklist li em{background:url(images/mun.gif) no-repeat;width:20px;height:16px;overflow:hidden;display:block;position:absolute;left:0;top:0;text-align:center;font-style:normal;color:#333;}
+.ranklist li em{background-position:0 -16px;}
+.ranklist li.top em{background-position:0 0;color:#fff;}
+.ranklist li .num{position:absolute;right:0;top:0;color:#999;}
+
+hr{
+    border: 1px lightgrey solid
+}
+#Due-date, #Assign-date, #Assignee:hover{
+    cursor:  pointer
+}
